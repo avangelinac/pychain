@@ -1,0 +1,35 @@
+  474  cd desktop
+  475  git clone https://github.com/avangelinac/pychain.git
+  476  cd pychain
+  477  git add .
+  478  git commit -m "images folder and README file"
+  479  git push origin main
+  480  printenv > /var/folders/yp/kpm0_dn56qj9j9r4d7vw24540000gn/T/tmp-97354gjdTODSuR8HZtxt
+  481  cd desktop
+  482  git clone https://github.com/avangelinac/crypto_wallet_fintech_finder.git
+  483  cd crypto_wallet_fintech_finder
+  484  cd add .
+  485  git add .
+  486  git commit -m "update python files"
+  487  git commit -m "add images folder"
+  488  git push origin main
+  489  git add. 
+  490  git add .
+  491  git commit -m "README files and images"
+  492  history 10 > terminal_history.txt
+  493  history 20 > terminal_history.txt
+  494  history 15 > terminal_history.txt
+  495  cd desktop
+  496  cd crypto_wallet_fintech_finder
+  497  git add .
+  498  git commit -m "text history"
+  499  history 20 > terminal_history.txt
+  500  git push origin main
+  501  cd desktop
+  502  cd pychain
+  503  history 50 > terminal_history.txt
+  504  git commit -m "pychain file"
+  505  git add .
+  506  git commit "pychain file"
+  507  git commit -m "pychain file"
+  508  history 35 > terminal_history.txt
