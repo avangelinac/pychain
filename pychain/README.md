@@ -1,6 +1,8 @@
 # pychain
 Challenge 18
 
+* [Functional Streamlit Application](https://avangelinac-pychain-pychainpychain-uvbis2.streamlitapp.com/)
+
 <!-- TABLE OF CONTENTS -->
 <details open="open">
   <summary>Table of Contents</summary>
@@ -28,7 +30,7 @@ Challenge 18
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This a blockchain-based ledger system, complete with a user-friendly Streamlit web interface. This ledger allows the user to conduct financial transactions between senders and receivers, and also verify the integrity of the data in the ledger by checking the previous block's hash.
+This a blockchain-based ledger system, complete with a user-friendly Streamlit web interface. This ledger allows the user to conduct financial transactions between senders and receivers, and also verify the integrity of the data in the ledger by checking the previous block's hash
 
 ---
 
